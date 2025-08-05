@@ -1,4 +1,3 @@
-"# My Project" 
 
 #  SKPA Internship API Project
 
